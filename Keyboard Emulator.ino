@@ -22,7 +22,7 @@ Video link:
 https://www.youtube.com/watch?v=XRUjBdCev2o&ab_channel=BarEfrima
 
 Created By:
-Bar Efrima #208236604
+Bar Efrima 
 */
 #include <Adafruit_CircuitPlayground.h>
 #include "Keyboard.h" // keyboard keys
