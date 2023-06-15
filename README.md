@@ -1,5 +1,5 @@
 # Emulating-Bubble-Trouble-With-Fruits
-playing the game Bubble Trouble by emulating a PC keyboard
+playing the game Bubble Trouble by emulating a PC keyboard with CPX (circuit playground express)
 
 Banana gun:
 When pressed, the character shoots and outputs a laser beam sound.
